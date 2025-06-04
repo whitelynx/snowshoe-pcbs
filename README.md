@@ -5,8 +5,8 @@ Snowshoe Single Keyswitch Hotswap Boards
 
 Some very simple PCBs to make it easier to work with Kailh MX or Choc hotswap sockets.
 
-![Snowshoe MX](https://raw.githubusercontent.com/whitelynx/snowshoe-pcbs/master/screenshots/snowshoe-mx-render.png)
-![Snowshoe Choc](https://raw.githubusercontent.com/whitelynx/snowshoe-pcbs/master/screenshots/snowshoe-choc-render.png)
+![Snowshoe MX](https://raw.githubusercontent.com/whitelynx/snowshoe-pcbs/main/screenshots/snowshoe-mx-render.png)
+![Snowshoe Choc](https://raw.githubusercontent.com/whitelynx/snowshoe-pcbs/main/screenshots/snowshoe-choc-render.png)
 
 ---
 
